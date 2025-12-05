@@ -6,10 +6,15 @@
 ## 기술 스택
 ---------------
 Java: open-JDK 17
+
 Spring-boot: 3.5.7
+
 MySQL: 8.4
+
 IntelliJ version: 25.2.2
+
 API Test: Postman
+
 Testing : JUnit 5, Spring Boot Test
 
 -----------
@@ -24,6 +29,7 @@ Lv2	코드 개선 Early Return
 불필요한 if-else 제거	가독성 향상을 위해 else 블록 제거
 
 Validation 적용	
+
 
 Lv3	N+1 해결	JPQL Fetch Join → EntityGraph 대체
 
